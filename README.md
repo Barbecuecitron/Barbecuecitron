@@ -3,9 +3,13 @@
 <p align="center"><img src="https://media.tenor.com/ZorS5WYG4b4AAAAC/coffee-coffee-cup.gif" alt="404Err" /></p>
 <img src="https://komarev.com/ghpvc/?username=barbecuecitron&label=Profile%20views&color=0e75b6&style=flat" alt="barbecuecitron" />
 
-## Programming Languages
+### Programming Languages
 ![python icon](https://img.icons8.com/color/48/000000/python.png) Python ⭐⭐⭐⭐☆
 ![lua icon](https://img.icons8.com/color/48/000000/lua-language.png) Lua ⭐⭐⭐☆☆
+![html5 icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML 5 ✅
+![css icon](https://img.icons8.com/color/48/000000/css3.png) CSS ⭐⭐☆☆☆
+![javascript icon](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript ⭐⭐☆☆☆  
+![kotlin icon](https://img.icons8.com/color/48/000000/kotlin.png) Kotlin ⭐⭐☆☆
 
 ## Game Development
 ![glua icon](https://img.icons8.com/nolan/48/lua-language--v1.png) GLua ⭐⭐⭐⭐⭐
