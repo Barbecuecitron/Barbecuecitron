@@ -1,6 +1,6 @@
 <h1 align="center">Arthur, P</h1>
 <h3 align="center">Développeur Python & Lua / GLua.</h3>
-<p align="center"><img src="https://usagif.com/wp-content/uploads/gifs/coffee-88.gif" alt="404Err" /></p>
+<p align="center"><img src="https://media.tenor.com/ZorS5WYG4b4AAAAC/coffee-coffee-cup.gif" alt="404Err" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barbecuecitron&label=Profile%20views&color=0e75b6&style=flat" alt="barbecuecitron" /> </p>
 
 ## Programming Languages
