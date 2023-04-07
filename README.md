@@ -4,17 +4,17 @@
 <img src="https://komarev.com/ghpvc/?username=barbecuecitron&label=Profile%20views&color=0e75b6&style=flat" alt="barbecuecitron" />
 
 ### Programming Languages
-![python icon](https://img.icons8.com/color/48/000000/python.png) Python
-![lua icon](https://img.icons8.com/color/48/000000/lua-language.png) Lua
+![python icon](https://img.icons8.com/color/48/000000/python.png) Python  
+![lua icon](https://img.icons8.com/color/48/000000/lua-language.png) Lua  
 ![html5 icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML 5 ✅  
-![css icon](https://img.icons8.com/color/48/000000/css3.png) CSS
-![javascript icon](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript
-![kotlin icon](https://img.icons8.com/color/48/000000/kotlin.png) Kotlin
+![css icon](https://img.icons8.com/color/48/000000/css3.png) CSS  
+![javascript icon](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript  
+![kotlin icon](https://img.icons8.com/color/48/000000/kotlin.png) Kotlin  
 
 ## Game Development
-![glua icon](https://img.icons8.com/nolan/48/lua-language--v1.png) GLua 
-![garrys-mod icon](https://img.icons8.com/color/48/000000/garrys-mod.png) Garry's Mod
-![blender icon](https://img.icons8.com/color/48/000000/blender-3d.png) Blender Scripting
+![glua icon](https://img.icons8.com/nolan/48/lua-language--v1.png) GLua  
+![garrys-mod icon](https://img.icons8.com/color/48/000000/garrys-mod.png) Garry's Mod  
+![blender icon](https://img.icons8.com/color/48/000000/blender-3d.png) Blender Scripting  
 ![unity icon](https://img.icons8.com/color/48/000000/unity.png) Unity
 
 ## Web Frameworks
