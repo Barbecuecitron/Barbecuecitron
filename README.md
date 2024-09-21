@@ -1,4 +1,4 @@
-<h1 align="center">Arthur, P</h1>
+<h1 align="center">Arthur</h1>
 <h3 align="center">Développeur</h3>
 <p align="center"><img src="https://media.tenor.com/ZorS5WYG4b4AAAAC/coffee-coffee-cup.gif" alt="404Err" /></p>
 <img src="https://komarev.com/ghpvc/?username=barbecuecitron&label=Profile%20views&color=0e75b6&style=flat" alt="barbecuecitron" />
