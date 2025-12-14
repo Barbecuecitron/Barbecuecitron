@@ -6,11 +6,10 @@
 ### Programming Languages
 ![python icon](https://img.icons8.com/color/48/000000/python.png) Python  
 ![lua icon](https://img.icons8.com/color/48/000000/lua-language.png) Lua  
-![html5 icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML 5 ✅  
+![html5 icon](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML
 ![css icon](https://img.icons8.com/color/48/000000/css3.png) CSS  
 ![javascript icon](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript  
-![kotlin icon](https://img.icons8.com/color/48/000000/kotlin.png) Kotlin  
-
+![ibm_icon](https://img.icons8.com/?size=100&id=31754&format=png) IBM i series / RPG / RPGLE
 ## Game Development
 ![glua icon](https://img.icons8.com/nolan/48/lua-language--v1.png) GLua  
 ![garrys-mod icon](https://img.icons8.com/color/48/000000/garrys-mod.png) Garry's Mod  
